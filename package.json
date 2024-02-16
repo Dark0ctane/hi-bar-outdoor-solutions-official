@@ -1,0 +1,12 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch main.scss style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
